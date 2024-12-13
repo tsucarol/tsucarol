@@ -8,13 +8,15 @@
 
 <h2 align="center">I little bit about me</h2>
 
-🌎 &nbsp;I'm from Sao Paulo, Brazil.
+🌎 I'm from Sao Paulo, Brazil.
 
-🎓 &nbsp;I'm currently learning Automated Testing with Selenium and Java, and I'm also learning English.
+🎓 I'm currently learning Automated Testing with Selenium and Java, and I'm also learning English.
 
-🌱 &nbsp;I'm on track with learning more about JMeter, JUnit, Postman, and Appium.
+🌱 I'm on track with learning more about JMeter, JUnit, Postman, and Appium.
 
-✍️ &nbsp;In my free time, I enjoy listening to music and going to the gym.
+✍️ In my free time, I enjoy listening to music and going to the gym.
+
+✉️ If you have any suggestions, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/carol-guimaraes/). 
 
 
 <h2 align="center">Languages & Frameworks</h2>
@@ -37,10 +39,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsucarol&theme=default" alt="Card Repos per language"/>
 </p>
 
-<h2 align="center">Contact</h2> 
+<h2 align="center">Repositories</h2> 
 
-<p align="center">
-  <a href="mailto:carollyne.guim@gmail.com"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/in/carol-guimaraes/"><img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin" width="40" height="40"/></a>
-</p>
-
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/tsucarol/saucedemo142-iterasys" title="Iterasys - Saucedemo"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tsucarol&repo=saucedemo142-iterasys&theme=default&border_radius=10"</a>
+  <a align="right" href="https://github.com/tsucarol/internetproject142-iterasys" title="Iterasys - Internet Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tsucarol&repo=internetproject142-iterasys"&theme=default&border_radius=10"></a>
+</div>
