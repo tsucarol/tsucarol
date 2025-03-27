@@ -23,9 +23,7 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=java,maven,selenium,cypress,postman"
-    />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,maven,selenium,cypress,postman"/>
   </a>
 </p>
 
