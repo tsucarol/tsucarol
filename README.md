@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=java,maven,selenium"
+      src="https://go-skill-icons.vercel.app/api/icons?i=java,maven,selenium,cypress,postman"
     />
   </a>
 </p>
@@ -37,9 +37,3 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsucarol&theme=default" alt="Card Repos per language"/>
 </p>
 
-<h2 align="center">Repositories</h2> 
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/tsucarol/area-calculator142" title="Iterasys - Area Calculator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tsucarol&repo=area-calculator142&theme=default&border_radius=10"</a>
-  <a align="right" href="https://github.com/tsucarol/internetproject142-iterasys" title="Iterasys - Internet Project"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tsucarol&repo=internetproject142-iterasys"&theme=default&border_radius=10"></a>
-</div>
