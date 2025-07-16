@@ -1,6 +1,6 @@
 ![About me GIF](https://github.com/user-attachments/assets/be2e9b39-028b-4c4f-a688-7970ffe36301)
 
-<h3 align="center">QA 🐞 | System Development Student</a></h3>
+<h3 align="center">Software Quality 🐞 | CTFL </a></h3>
 
 <p>
   <br>
@@ -12,7 +12,7 @@
 
 🎓 I'm currently learning Automated Testing with Selenium and Java, and I'm also learning English.
 
-🌱 I'm on track with learning more about JMeter, JUnit, Postman, and Appium.
+🌱 I'm on track with learning more about JMeter and Appium.
 
 ✍️ In my free time, I enjoy listening to music and going to the gym.
 
